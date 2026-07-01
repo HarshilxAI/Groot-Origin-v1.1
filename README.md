@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌳 Groot Origin v1.1
+#  Groot Origin v1.1
 
 ### Your Personal Offline AI Workspace
 
@@ -29,18 +29,18 @@ Unlike cloud AI platforms, Groot Origin gives users full control over their AI e
 
 ### ✨ Key Features
 
-- 🤖 Run Local Large Language Models (LLMs)
-- 💬 Modern ChatGPT-like User Interface
-- 🔒 Complete Offline Privacy
-- ⚡ Fast Local Inference
-- 🐳 Docker-based Deployment
-- 🧠 Ollama Model Management
-- 🎨 Image Generation Support
-- 📁 File Upload Support
-- 🌐 Web Search Integration
-- 📚 Chat History Management
-- 👥 Multiple Model Support
-- 🛠 Easy Customization
+-  Run Local Large Language Models (LLMs)
+-  Modern ChatGPT-like User Interface
+-  Complete Offline Privacy
+-  Fast Local Inference
+-  Docker-based Deployment
+-  Ollama Model Management
+-  Image Generation Support
+-  File Upload Support
+-  Web Search Integration
+-  Chat History Management
+-  Multiple Model Support
+-  Easy Customization
 
 ---
 
