@@ -1,0 +1,2 @@
+const t="Open WebUI",e="",_=`${e}/api/v1`,a=`${e}/ollama`,s=`${e}/openai`,A=`${e}/api/v1/audio`,o=`${e}/api/v1/images`,I=`${e}/api/v1/retrieval`,n="0.10.1",E="b711935dd57dbc223ebbf410175a8bbe7e4efafb",i={file_context:!0,vision:!0,file_upload:!0,web_search:!0,image_generation:!0,code_interpreter:!0,terminal:!0,citations:!0,status_updates:!0,usage:void 0,builtin_tools:!0},r=1e3;export{t as A,i as D,o as I,s as O,r as P,I as R,n as W,e as a,_ as b,A as c,a as d,E as e};
+//# sourceMappingURL=CNnngO_v.js.map
